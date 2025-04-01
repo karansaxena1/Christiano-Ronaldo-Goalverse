@@ -4,3 +4,4 @@ numpy==1.24.3
 plotly==5.15.0
 matplotlib==3.8.0
 seaborn==0.12.2
+distutils
